@@ -1,2 +1,2 @@
 # InterPY
-Python inspired interpreter for educational purposes
+An interpreter for our simple Python inspired Language for educational purposes
